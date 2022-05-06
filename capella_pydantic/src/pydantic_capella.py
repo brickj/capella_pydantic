@@ -47,11 +47,12 @@ print(user_post1.reviews[0].review)
 
 
 def capella_connect():
-    endpoint = 'cb.915ukpztrpvozhqn.cloud.couchbase.com'
-    username = "db_user2"
-    password = "PassWord1!"
+    endpoint = <'cluster endpoint'>
+    username = <"database user name">
+    password = <"database user password">
     bucketName = 'pydantic'
     #### User Input ends here.
+    
     # Initialize the Connection
     cluster = Cluster('couchbases://' + endpoint + '?ssl=no_verify',
                       ClusterOptions(PasswordAuthenticator(username, password)))
