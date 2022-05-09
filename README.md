@@ -8,6 +8,20 @@ Links
 * To get here, use https://github.com/brickj/capella_pydantic
 
 
+Prerequisites
+---------------
+
+1. Installed Couchbase Capella SDK: pip install couchbase
+
+2. Installed Pydantic Python library: pip install pydantic
+
+3. Couchbase Capella account: [30 day Trial](/cloud.couchbase.com/sign-up)
+
+4. Run code
+
+5. Couchbase Capella Cluster and bucket named “pydantic” 
+
+
 Instructions
 ---------------
 
