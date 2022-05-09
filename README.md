@@ -11,9 +11,9 @@ Links
 Prerequisites
 ---------------
 
-1. Installed Couchbase Capella SDK: pip install couchbase
+1. Installed Couchbase Capella SDK eg: pip install couchbase
 
-2. Installed Pydantic Python library: pip install pydantic
+2. Installed Pydantic Python library eg: pip install pydantic
 
 3. Couchbase Capella account: [30 day Trial](https://cloud.couchbase.com/sign-up)
 
