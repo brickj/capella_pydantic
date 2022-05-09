@@ -15,7 +15,7 @@ Prerequisites
 
 2. Installed Pydantic Python library: pip install pydantic
 
-3. Couchbase Capella account: [30 day Trial](/cloud.couchbase.com/sign-up)
+3. Couchbase Capella account: [30 day Trial](https://cloud.couchbase.com/sign-up)
 
 4. Run code
 
