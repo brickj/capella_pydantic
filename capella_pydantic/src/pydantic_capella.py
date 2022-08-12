@@ -4,9 +4,7 @@ from typing import List, Optional
 
 # Capella Imports
 from couchbase.cluster import Cluster, ClusterOptions
-from couchbase.cluster import PasswordAuthenticator
-from couchbase.cluster import QueryOptions
-from couchbase.management.queries import CreatePrimaryQueryIndexOptions
+from couchbase.auth import PasswordAuthenticator
 
 
 class Review(BaseModel):
